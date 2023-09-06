@@ -1,7 +1,7 @@
 {
   "pc": "com.simple_downloader_songs_music.mp3_tube_download",
   "client_id_music": "bc930b1d",
-  "interval_inter": 3,
+  "interval_inter": 1,
   "admob": [
     {
       "banner": "ca-app-pub-",
